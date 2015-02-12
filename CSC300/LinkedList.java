@@ -1,6 +1,7 @@
 public class LinkedList 
 
 {
+	//change
 	private Node head;
 	private int count;
 
